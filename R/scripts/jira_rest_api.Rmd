@@ -1,0 +1,13 @@
+---
+title: "JIRA REST API"
+output: html_notebook
+---
+
+# Requirements
+
+- Atlassian Plugin SDK
+
+```{r}
+plot(cars)
+```
+
